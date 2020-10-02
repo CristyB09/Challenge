@@ -12,7 +12,7 @@ plus a description of the animal such as…
 “Woof! I am Rex, a 9 year old terrier”.
 Provide a further class PetTest that implements a main() method to test your new class
 hierarchy.
-Note: an example of the output from the program is provided in the video session
+
 
                    Challenge: Talking Pets
 In your Pets project, modify the class PetTest with functionality as follows.
