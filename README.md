@@ -1,5 +1,5 @@
-# Challenge
- Pet Hierarchy
+                       # Challenge
+                      Pet Hierarchy
  
 In a new Java project called Pets, define a new class Pet with instance variables name and
 age. Provide a suitable constructor and accessor/mutator methods for the class.
@@ -14,7 +14,7 @@ Provide a further class PetTest that implements a main() method to test your new
 hierarchy.
 Note: an example of the output from the program is provided in the video session
 
- Challenge: Talking Pets
+                   Challenge: Talking Pets
 In your Pets project, modify the class PetTest with functionality as follows.
 • The application should create an array of 5 animals which is populated by repeatedly
 prompting the user whether they want to add a cat or dog to the collection.
